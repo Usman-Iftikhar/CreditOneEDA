@@ -1,2 +1,2 @@
 # CreditOneEDA
-C5T2 - Credit One exploratory data analysis
+use Python and relevant libraries to explore trends in data.
